@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Dongxuan He  
 
-<!--
-**DongxuanHe/DongxuanHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student majoring in **Computer Science**.  
+💡 I’m passionate about **AI, software engineering, and systems programming**.  
+🚀 Currently exploring **operating systems, networks, and backend development**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- Programming Languages: **C/C++, Python, Java**
+- Web & Backend: **Flask, Node.js**
+- Systems: **Linux, Shell, Networking**
+- Tools: **Git, Docker, VSCode**
+
+---
+
+### 🌱 Current Focus
+- Building **operating system projects** (CS252 Labs)  
+- Exploring **AI applications** for automation and productivity  
+- Learning **full-stack development**  
+
+---
+
+### 📌 Selected Projects
+- 🔹 **[CS252 Shell](https://github.com/your-repo-link)**: Implemented a custom UNIX shell with command parsing, job control, and signal handling.  
+- 🔹 **[HTTP Server](https://github.com/your-repo-link)**: Built a multi-threaded HTTP server supporting authentication, dynamic modules, and thread pools.  
+- 🔹 **[Airplane Model Project](https://github.com/your-repo-link)**: Designed a 3D Boeing 737 model for aerodynamic simulations.  
+
+---
+
+### 📫 Connect with Me
+- 🌍 GitHub: [DongxuanHe](https://github.com/DongxuanHe)  
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
+- ✉️ Email: yourname@email.com  
+
+---
+
+⭐️ From [DongxuanHe](https://github.com/DongxuanHe)  
