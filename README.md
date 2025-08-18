@@ -7,8 +7,8 @@ Hi! I'm a Master's student majoring in **Robotics** at Purdue University. I comp
 - 📦 **[Custom Malloc](https://github.com/DongxuanHe/MemoryAllocation)**: Built a malloc/calloc/realloc/free library in C with efficient heap management.
 - ⚙️ **[Shell Scripting Utilities](https://github.com/DongxuanHe/BashShellUtilities)**: Built three Bash utilities — password strength checker, disk usage reporter, and process monitor using regex and the `/proc` filesystem.
 - 🐚 **[Shell](https://github.com/DongxuanHe/Shell)**: Implemented a Unix-like shell with command parsing, pipelines, background jobs, environment expansion, and subshell execution.
-- 🌐 **[Custom HTTP Server](https://github.com/HTTPServer)**: Built a C++ HTTP/1.0 server supporting static files, directory listing, authentication, concurrency (fork/threads), and dynamic module loading.
-- ✈️ **[Airplane Model Project](https://github.com/your-repo-link)**: Designed a 3D Boeing 787-9 model for aerodynamic simulations.
+- 🌐 **[Custom HTTP Server](https://github.com/DongxuanHe/HTTPServer)**: Built a C++ HTTP/1.0 server supporting static files, directory listing, authentication, concurrency (fork/threads), and dynamic module loading.
+- ✈️ **[Airplane Model Project](https://github.com/DongxuanHe/your-repo-link)**: Designed a 3D Boeing 787-9 model for aerodynamic simulations.
 
 ---
 
