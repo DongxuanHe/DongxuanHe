@@ -1,38 +1,21 @@
-# Hi 👋 I'm Dongxuan He  
+Hi! I'm a Master's student majoring in **Robotics** at Purdue University.  
+I completed my undergraduate studies at Purdue University as well, where I pursued **Computer Science** and **Electrical and Computer Engineering**.  
 
-🎓 I'm an undergraduate student majoring in **Computer Science**.  
-💡 I’m passionate about **AI, software engineering, and systems programming**.  
-🚀 Currently exploring **operating systems, networks, and backend development**.  
-
----
-
-### 🛠️ Skills & Tools
-- Programming Languages: **C/C++, Python, Java**
-- Web & Backend: **Flask, Node.js**
-- Systems: **Linux, Shell, Networking**
-- Tools: **Git, Docker, VSCode**
-
----
-
-### 🌱 Current Focus
-- Building **operating system projects** (CS252 Labs)  
-- Exploring **AI applications** for automation and productivity  
-- Learning **full-stack development**  
+My research interests focus on **Machine Learning, Artificial Intelligence, and Software Engineering**.  
+Currently, I am exploring **Control Theory and Control Systems**.  
 
 ---
 
 ### 📌 Selected Projects
-- 🔹 **[CS252 Shell](https://github.com/your-repo-link)**: Implemented a custom UNIX shell with command parsing, job control, and signal handling.  
-- 🔹 **[HTTP Server](https://github.com/your-repo-link)**: Built a multi-threaded HTTP server supporting authentication, dynamic modules, and thread pools.  
-- 🔹 **[Airplane Model Project](https://github.com/your-repo-link)**: Designed a 3D Boeing 737 model for aerodynamic simulations.  
+- 🤖 **[Interactive System](https://github.com/DongxuanHe/InteractiveSystem)**: Developed an interactive ML-based text classification system using TensorFlow, Flask, and ngrok. 
+- 🐚 **[Shell](https://github.com/your-repo-link)**: Implemented a custom UNIX shell with command parsing, job control, and signal handling.  
+- 🌐 **[HTTP Server](https://github.com/your-repo-link)**: Built a multi-threaded HTTP server supporting authentication, dynamic modules, and thread pools.  
+- ✈️ **[Airplane Model Project](https://github.com/your-repo-link)**: Designed a 3D Boeing 737 model for aerodynamic simulations.  
 
 ---
 
 ### 📫 Connect with Me
-- 🌍 GitHub: [DongxuanHe](https://github.com/DongxuanHe)  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
-- ✉️ Email: yourname@email.com  
+- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/dongxuan-he-311739225)  
+- ✉️ Email: hedxszzx@outlook.com
 
 ---
-
-⭐️ From [DongxuanHe](https://github.com/DongxuanHe)  
